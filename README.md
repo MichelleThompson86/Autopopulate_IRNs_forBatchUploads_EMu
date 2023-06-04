@@ -10,4 +10,4 @@ Files needed:
 Programs needed:
 R/ R Studio
 
-I have a video tutorial. Please message me if interested.
+
