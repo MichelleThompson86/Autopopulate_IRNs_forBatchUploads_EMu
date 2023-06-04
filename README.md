@@ -8,5 +8,4 @@ Files needed:
 3) R script
 
 Programs needed:
-R
-R Studio
+R/ R Studio
